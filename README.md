@@ -92,10 +92,12 @@ If you use this repository, please cite the associated paper:
 ```bibtex
 @inproceedings{mixer2026,
   title     = {Explaining Feature Contributions in Multimodal Instagram Engagement Prediction},
-  author    = {Anonymous},
-  booktitle = {},
-  year      = {2026}
+  author    = {Menconi, Carolina and Pollacci, Laura},
+  booktitle = {ECML-PKDD Workshops},
+  year      = {2026},
+  note      = {To appear}
 }
+
 ```
 The citation will be updated after publication.
 
